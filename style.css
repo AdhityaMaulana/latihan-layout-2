@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: grey;
+    font-family: sans-serif;
+}
+
+
+.container {
+    width: 650px;
+    padding: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    margin: auto;
+    
+}
+
+.head {
+    width: 650px;
+    margin: auto;
+
+}
+
+header{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: lightgray;
+    height: auto;
+    width: auto;
+    padding: 7px;
+   
+
+}
+
+header h2 {
+    margin:auto;
+    text-align: center;
+}
+.isi {
+    margin-top: 15px;
+}
+.isi img{
+    width: 160px;
+    margin-left: 8px;
+    float: left;
+    border: 1px solid gray ;
+}
+
+.kanan p{
+    width: 450px;
+    text-align: justify;
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+p{
+    font-size: smaller;
+}
+.fix-container{
+    clear: both;
+}
+
+
+.konten p{
+    padding:0 23px;
+}
+.konten {
+    width: 650px;
+    margin: auto;
+    text-align: justify;
+}
+.konten img{
+    width: 600px;
+    margin-left: 23px;
+
+    height: 320px;
+    padding: 0px;
+    border: 1px solid slategrey;
+    margin-top: 10px;
+}
